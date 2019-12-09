@@ -1,24 +1,19 @@
-# README
+# Todoster
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This single-page to-do application features a fluid user interface that, by using JavaScript, allows users to rapidly add dynamic content.
 
-Things you may want to cover:
+## How to Run
 
-* Ruby version
+Run Todoster in your computer at: http://todoster-sarah-gustafson.herokuapp.com/
 
-* System dependencies
+## Built With
 
-* Configuration
+Todoster was built with HTML5, CSS, JavaScript, and jQuery on the front end to create a fluid interface. The backend was coded with Ruby version 2.5.3 on Rails version 5.2.3, with Postgresql used for database management. Todoster is launched on Heroku.
 
-* Database creation
+## Author
 
-* Database initialization
+Todoster was coded by Sarah E. Gustafson.
 
-* How to run the test suite
+## Acknowledgments
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Todoster was coded under the instruction of Vanderbilt University Online Coding Bootcamp.
